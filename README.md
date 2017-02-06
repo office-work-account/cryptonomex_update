@@ -5,7 +5,7 @@ This is a light wallet that connects to a Graphene based API server such as the 
 
 It *stores all keys locally* in the browser, *never exposing your keys to anyone* as it signs transactions locally before transmitting them to the API server which then broadcasts them to the blockchain network. The wallet is encrypted with a password of your choosing and encrypted in a browser database.
 
-### Getting started
+#### Getting started
 
 Graphene-UI depends node Node.js, and version 6+ is required. It has not yet been tested with v7.
 
